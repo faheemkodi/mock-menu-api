@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Salads and Soup",
+      "dishes": [
+        {
+          "id": 101,
+          "name": "Spinach Salad",
+          "price": "7.95",
+          "currency": "INR",
+          "calories": 15,
+          "description": "Fresh spinach, mushrooms, and hard-boiled egg served with warm bacon vinaigrette",
+          "addons": [
+            {
+              "id": 1,
+              "name": "Extra Dressing",
+              "price": "1.00"
+            }
+          ],
+          "image_url": "https://example.com/spinach-salad.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 102,
+          "name": "Traditional New England Seafood Chowder",
+          "price": "12.00",
+          "currency": "INR",
+          "calories": 30,
+          "description": "With clams, scallops, and shrimp",
+          "addons": [],
+          "image_url": "https://example.com/seafood-chowder.jpg",
+          "customizations_available": false
+        },
+        {
+          "id": 103,
+          "name": "Caesar Salad",
+          "price": "8.50",
+          "currency": "INR",
+          "calories": 120,
+          "description": "Crisp romaine lettuce, croutons, and Caesar dressing",
+          "addons": [
+            {
+              "id": 7,
+              "name": "Grilled Chicken",
+              "price": "3.00"
+            }
+          ],
+          "image_url": "https://example.com/caesar-salad.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 104,
+          "name": "Tomato Basil Soup",
+          "price": "5.95",
+          "currency": "INR",
+          "calories": 90,
+          "description": "Creamy tomato soup with fresh basil",
+          "addons": [],
+          "image_url": "https://example.com/tomato-soup.jpg",
+          "customizations_available": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "From The Barnyard",
+      "dishes": [
+        {
+          "id": 201,
+          "name": "Grilled Chicken Breast",
+          "price": "10.50",
+          "currency": "INR",
+          "calories": 200,
+          "description": "Grilled chicken breast with herbs and spices",
+          "addons": [
+            {
+              "id": 2,
+              "name": "Extra Chicken Breast",
+              "price": "5.00"
+            }
+          ],
+          "image_url": "https://example.com/grilled-chicken.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 202,
+          "name": "BBQ Pork Ribs",
+          "price": "18.00",
+          "currency": "INR",
+          "calories": 450,
+          "description": "Smoked BBQ pork ribs with BBQ sauce",
+          "addons": [
+            {
+              "id": 3,
+              "name": "Extra BBQ Sauce",
+              "price": "2.00"
+            }
+          ],
+          "image_url": "https://example.com/bbq-pork-ribs.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 203,
+          "name": "Beef Steak",
+          "price": "20.00",
+          "currency": "INR",
+          "calories": 500,
+          "description": "Juicy grilled beef steak with garlic butter",
+          "addons": [
+            {
+              "id": 8,
+              "name": "Extra Garlic Butter",
+              "price": "1.50"
+            }
+          ],
+          "image_url": "https://example.com/beef-steak.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 204,
+          "name": "Lamb Chops",
+          "price": "22.00",
+          "currency": "INR",
+          "calories": 600,
+          "description": "Tender grilled lamb chops with rosemary",
+          "addons": [],
+          "image_url": "https://example.com/lamb-chops.jpg",
+          "customizations_available": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pasta and Noodles",
+      "dishes": [
+        {
+          "id": 301,
+          "name": "Spaghetti Carbonara",
+          "price": "15.00",
+          "currency": "INR",
+          "calories": 350,
+          "description": "Classic spaghetti carbonara with bacon and creamy sauce",
+          "addons": [
+            {
+              "id": 4,
+              "name": "Extra Parmesan Cheese",
+              "price": "1.50"
+            }
+          ],
+          "image_url": "https://example.com/spaghetti-carbonara.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 302,
+          "name": "Vegetable Stir-Fry Noodles",
+          "price": "9.95",
+          "currency": "INR",
+          "calories": 250,
+          "description": "Stir-fried noodles with fresh vegetables and soy sauce",
+          "addons": [],
+          "image_url": "https://example.com/veg-stir-fry.jpg",
+          "customizations_available": false
+        },
+        {
+          "id": 303,
+          "name": "Penne Arrabbiata",
+          "price": "12.00",
+          "currency": "INR",
+          "calories": 300,
+          "description": "Penne pasta with spicy tomato sauce",
+          "addons": [
+            {
+              "id": 9,
+              "name": "Grilled Chicken",
+              "price": "3.00"
+            }
+          ],
+          "image_url": "https://example.com/penne-arrabbiata.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 304,
+          "name": "Shrimp Alfredo",
+          "price": "18.00",
+          "currency": "INR",
+          "calories": 450,
+          "description": "Fettuccine pasta with creamy Alfredo sauce and shrimp",
+          "addons": [],
+          "image_url": "https://example.com/shrimp-alfredo.jpg",
+          "customizations_available": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Desserts",
+      "dishes": [
+        {
+          "id": 401,
+          "name": "Chocolate Lava Cake",
+          "price": "6.50",
+          "currency": "INR",
+          "calories": 450,
+          "description": "Rich chocolate cake with molten chocolate center",
+          "addons": [
+            {
+              "id": 5,
+              "name": "Vanilla Ice Cream",
+              "price": "2.00"
+            }
+          ],
+          "image_url": "https://example.com/choco-lava-cake.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 402,
+          "name": "Cheesecake",
+          "price": "7.50",
+          "currency": "INR",
+          "calories": 400,
+          "description": "Creamy cheesecake with a graham cracker crust",
+          "addons": [
+            {
+              "id": 6,
+              "name": "Berry Sauce",
+              "price": "1.50"
+            }
+          ],
+          "image_url": "https://example.com/cheesecake.jpg",
+          "customizations_available": true
+        },
+        {
+          "id": 403,
+          "name": "Tiramisu",
+          "price": "8.00",
+          "currency": "INR",
+          "calories": 350,
+          "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone",
+          "addons": [],
+          "image_url": "https://example.com/tiramisu.jpg",
+          "customizations_available": false
+        },
+        {
+          "id": 404,
+          "name": "Ice Cream Sundae",
+          "price": "5.00",
+          "currency": "INR",
+          "calories": 300,
+          "description": "Vanilla ice cream with chocolate syrup, nuts, and a cherry on top",
+          "addons": [
+            {
+              "id": 10,
+              "name": "Extra Nuts",
+              "price": "1.00"
+            }
+          ],
+          "image_url": "https://example.com/ice-cream-sundae.jpg",
+          "customizations_available": true
+        }
+      ]
+    }
+  ]
+}
