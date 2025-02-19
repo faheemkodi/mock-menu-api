@@ -32,7 +32,7 @@
           "addons": [],
           "image_url": "https://unsplash.com/photos/round-silver-steel-bowl-with-scallops-qvIrI4ueqzY",
           "customizations_available": false,
-          "is_veg": false,
+          "is_veg": false
         },
         {
           "id": 103,
@@ -50,7 +50,7 @@
           ],
           "image_url": "https://unsplash.com/photos/cooked-shrimp-dish-w_z0RJCSBiE",
           "customizations_available": true,
-          "is_veg": false,
+          "is_veg": false
         },
         {
           "id": 104,
@@ -62,7 +62,7 @@
           "addons": [],
           "image_url": "https://unsplash.com/photos/soup-in-white-ceramic-bowl-x7hMzWxZa78",
           "customizations_available": false,
-          "is_veg": true,
+          "is_veg": true
         }
       ]
     },
@@ -104,7 +104,7 @@
           ],
           "image_url": "https://unsplash.com/photos/gray-metal-tong-and-grilled-meat-with-fire-jeiqzOgwwKU",
           "customizations_available": true,
-          "is_veg": false,
+          "is_veg": false
         },
         {
           "id": 203,
@@ -122,7 +122,7 @@
           ],
           "image_url": "https://unsplash.com/photos/cooked-meat-on-tray-NYBnDWeOX2c",
           "customizations_available": true,
-          "is_veg": false,
+          "is_veg": false
         },
         {
           "id": 204,
@@ -134,7 +134,7 @@
           "addons": [],
           "image_url": "https://unsplash.com/photos/three-fried-meats-on-cast-iron-skillet-sEVyWOg5M2s",
           "customizations_available": false,
-          "is_veg": false,
+          "is_veg": false
         }
       ]
     },
@@ -158,7 +158,7 @@
           ],
           "image_url": "https://unsplash.com/photos/pasta-with-meat-in-white-palte-J7pMNY6VbnM",
           "customizations_available": true,
-          "is_veg": false,
+          "is_veg": false
         },
         {
           "id": 302,
@@ -170,7 +170,7 @@
           "addons": [],
           "image_url": "https://unsplash.com/photos/a-black-bowl-filled-with-noodles-and-vegetables-pT_xSJPAW-4",
           "customizations_available": false,
-          "is_veg": true,
+          "is_veg": true
         },
         {
           "id": 303,
@@ -188,7 +188,7 @@
           ],
           "image_url": "https://unsplash.com/photos/pesto-pasta-with-sliced-tomatoes-served-on-white-ceramic-plate-12eHC6FxPyg",
           "customizations_available": true,
-          "is_veg": false,
+          "is_veg": false
         },
         {
           "id": 304,
@@ -200,7 +200,7 @@
           "addons": [],
           "image_url": "https://unsplash.com/photos/close-up-photo-of-grilled-meat-with-sauce-qt6b5042lrw",
           "customizations_available": false,
-          "is_veg": false,
+          "is_veg": false
         }
       ]
     },
@@ -224,7 +224,7 @@
           ],
           "image_url": "https://unsplash.com/photos/sliced-chocolate-cake-beside-fork-on-plate-P_l1bJQpQF0",
           "customizations_available": true,
-          "is_veg": true,
+          "is_veg": true
         },
         {
           "id": 402,
@@ -242,7 +242,7 @@
           ],
           "image_url": "https://unsplash.com/photos/sliced-cake-with-berries-on-top-TB0Ao4CQRqc",
           "customizations_available": true,
-          "is_veg": true,
+          "is_veg": true
         },
         {
           "id": 403,
@@ -254,7 +254,7 @@
           "addons": [],
           "image_url": "https://unsplash.com/photos/a-person-picking-up-a-piece-of-cake-on-a-plate-pzRS_xF8brE",
           "customizations_available": false,
-          "is_veg": true,
+          "is_veg": true
         },
         {
           "id": 404,
@@ -272,7 +272,7 @@
           ],
           "image_url": "https://unsplash.com/photos/chocolate-parfait-on-saucer-z_eoi3ppf5U",
           "customizations_available": true,
-          "is_veg": true,
+          "is_veg": true
         }
       ]
     }
