@@ -18,8 +18,9 @@
               "price": "1.00"
             }
           ],
-          "image_url": "https://example.com/spinach-salad.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/a-salad-with-apples-spinach-cranberries-and-feta-cheese-DEzYBNAl6OU",
+          "customizations_available": true,
+          "is_veg": false
         },
         {
           "id": 102,
@@ -29,8 +30,9 @@
           "calories": 30,
           "description": "With clams, scallops, and shrimp",
           "addons": [],
-          "image_url": "https://example.com/seafood-chowder.jpg",
-          "customizations_available": false
+          "image_url": "https://unsplash.com/photos/round-silver-steel-bowl-with-scallops-qvIrI4ueqzY",
+          "customizations_available": false,
+          "is_veg": false,
         },
         {
           "id": 103,
@@ -46,8 +48,9 @@
               "price": "3.00"
             }
           ],
-          "image_url": "https://example.com/caesar-salad.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/cooked-shrimp-dish-w_z0RJCSBiE",
+          "customizations_available": true,
+          "is_veg": false,
         },
         {
           "id": 104,
@@ -57,8 +60,9 @@
           "calories": 90,
           "description": "Creamy tomato soup with fresh basil",
           "addons": [],
-          "image_url": "https://example.com/tomato-soup.jpg",
-          "customizations_available": false
+          "image_url": "https://unsplash.com/photos/soup-in-white-ceramic-bowl-x7hMzWxZa78",
+          "customizations_available": false,
+          "is_veg": true,
         }
       ]
     },
@@ -80,8 +84,9 @@
               "price": "5.00"
             }
           ],
-          "image_url": "https://example.com/grilled-chicken.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/cooked-food-on-white-ceramic-plate-CRoAeTh5S_I",
+          "customizations_available": true,
+          "is_veg": false
         },
         {
           "id": 202,
@@ -97,8 +102,9 @@
               "price": "2.00"
             }
           ],
-          "image_url": "https://example.com/bbq-pork-ribs.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/gray-metal-tong-and-grilled-meat-with-fire-jeiqzOgwwKU",
+          "customizations_available": true,
+          "is_veg": false,
         },
         {
           "id": 203,
@@ -114,8 +120,9 @@
               "price": "1.50"
             }
           ],
-          "image_url": "https://example.com/beef-steak.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/cooked-meat-on-tray-NYBnDWeOX2c",
+          "customizations_available": true,
+          "is_veg": false,
         },
         {
           "id": 204,
@@ -125,8 +132,9 @@
           "calories": 600,
           "description": "Tender grilled lamb chops with rosemary",
           "addons": [],
-          "image_url": "https://example.com/lamb-chops.jpg",
-          "customizations_available": false
+          "image_url": "https://unsplash.com/photos/three-fried-meats-on-cast-iron-skillet-sEVyWOg5M2s",
+          "customizations_available": false,
+          "is_veg": false,
         }
       ]
     },
@@ -148,8 +156,9 @@
               "price": "1.50"
             }
           ],
-          "image_url": "https://example.com/spaghetti-carbonara.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/pasta-with-meat-in-white-palte-J7pMNY6VbnM",
+          "customizations_available": true,
+          "is_veg": false,
         },
         {
           "id": 302,
@@ -159,8 +168,9 @@
           "calories": 250,
           "description": "Stir-fried noodles with fresh vegetables and soy sauce",
           "addons": [],
-          "image_url": "https://example.com/veg-stir-fry.jpg",
-          "customizations_available": false
+          "image_url": "https://unsplash.com/photos/a-black-bowl-filled-with-noodles-and-vegetables-pT_xSJPAW-4",
+          "customizations_available": false,
+          "is_veg": true,
         },
         {
           "id": 303,
@@ -176,8 +186,9 @@
               "price": "3.00"
             }
           ],
-          "image_url": "https://example.com/penne-arrabbiata.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/pesto-pasta-with-sliced-tomatoes-served-on-white-ceramic-plate-12eHC6FxPyg",
+          "customizations_available": true,
+          "is_veg": false,
         },
         {
           "id": 304,
@@ -187,8 +198,9 @@
           "calories": 450,
           "description": "Fettuccine pasta with creamy Alfredo sauce and shrimp",
           "addons": [],
-          "image_url": "https://example.com/shrimp-alfredo.jpg",
-          "customizations_available": false
+          "image_url": "https://unsplash.com/photos/close-up-photo-of-grilled-meat-with-sauce-qt6b5042lrw",
+          "customizations_available": false,
+          "is_veg": false,
         }
       ]
     },
@@ -210,8 +222,9 @@
               "price": "2.00"
             }
           ],
-          "image_url": "https://example.com/choco-lava-cake.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/sliced-chocolate-cake-beside-fork-on-plate-P_l1bJQpQF0",
+          "customizations_available": true,
+          "is_veg": true,
         },
         {
           "id": 402,
@@ -227,8 +240,9 @@
               "price": "1.50"
             }
           ],
-          "image_url": "https://example.com/cheesecake.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/sliced-cake-with-berries-on-top-TB0Ao4CQRqc",
+          "customizations_available": true,
+          "is_veg": true,
         },
         {
           "id": 403,
@@ -238,8 +252,9 @@
           "calories": 350,
           "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone",
           "addons": [],
-          "image_url": "https://example.com/tiramisu.jpg",
-          "customizations_available": false
+          "image_url": "https://unsplash.com/photos/a-person-picking-up-a-piece-of-cake-on-a-plate-pzRS_xF8brE",
+          "customizations_available": false,
+          "is_veg": true,
         },
         {
           "id": 404,
@@ -255,8 +270,9 @@
               "price": "1.00"
             }
           ],
-          "image_url": "https://example.com/ice-cream-sundae.jpg",
-          "customizations_available": true
+          "image_url": "https://unsplash.com/photos/chocolate-parfait-on-saucer-z_eoi3ppf5U",
+          "customizations_available": true,
+          "is_veg": true,
         }
       ]
     }
